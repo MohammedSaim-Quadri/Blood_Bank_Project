@@ -28,7 +28,12 @@ The Blood Bank Management System is a web application designed to manage blood d
 
 1. Clone the repository:
 git clone repository name
+2.Get into the folder
 cd blood-bank-management-system
+3.Run the application
 npm install
 npm start
+## Contributing
+
+Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on GitHub or submit a pull request.
 
